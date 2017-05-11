@@ -1,6 +1,6 @@
 PiFMStream
 ========
-PiFMStream makes it easier to broadcast an internet radio stream on FM radio.
+PiFMStream makes it easy to broadcast an internet radio stream on an FM radio station.
 
 ##How to use it:
 Put pifmstream on your pi (e.g /home/pi).

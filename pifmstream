@@ -1,1 +1,3 @@
+#!/bin/sh
+
 sox -v .9 -t mp3 $1 -t wav --input-buffer 80000 -r 22050 -c 1 - | sudo ./fm_transmitter -f $2 -

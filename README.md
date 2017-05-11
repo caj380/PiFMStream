@@ -19,4 +19,6 @@ Attach an antenna to GPIO4 on your raspberry pi.
 
 >./pifmstream http://media-ice.musicradio.com/LBCLondonMP3Low 104.1
 
+###Start on boot:
+
 I've included a sample startup file. Just edit it to reflect your stream url and frequency and place it in /etc/init.d/
